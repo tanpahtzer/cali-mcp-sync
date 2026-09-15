@@ -1,0 +1,20 @@
+{
+  "request": {
+    "id": "20260915T004135_cc7bed56",
+    "action": "delete_event",
+    "params": {
+      "event_id": 85
+    },
+    "created_at": "2026-09-15T00:41:35.879587+00:00",
+    "source": "manual-test"
+  },
+  "result": {
+    "ok": true,
+    "status": 200,
+    "response": {
+      "ok": true,
+      "deleted": 85
+    }
+  },
+  "applied_at": "2026-09-15T00:41:39.739987+00:00"
+}
