@@ -1,0 +1,14 @@
+{
+  "id": "20260915T004822_1e87f562",
+  "action": "create_event",
+  "params": {
+    "title": "MCP FULL LOOP TEST - safe to delete",
+    "start_utc": "2026-11-01T15:00:00+00:00",
+    "end_utc": "2026-11-01T15:30:00+00:00",
+    "description": "End-to-end test via the actual MCP server tool function.",
+    "category": "personal",
+    "tzid": "America/New_York"
+  },
+  "created_at": "2026-09-15T00:48:22.699131+00:00",
+  "source": "claude-mcp"
+}
