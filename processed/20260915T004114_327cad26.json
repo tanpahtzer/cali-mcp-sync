@@ -1,0 +1,37 @@
+{
+  "request": {
+    "id": "20260915T004114_327cad26",
+    "action": "create_event",
+    "params": {
+      "title": "MCP TEST EVENT - safe to delete",
+      "start_utc": "2026-10-15T00:41:13+00:00",
+      "end_utc": "2026-10-15T01:11:13+00:00",
+      "category": "personal",
+      "description": "Created by the CALI<->GitHub write-back test."
+    },
+    "created_at": "2026-09-15T00:41:14.042987+00:00",
+    "source": "manual-test"
+  },
+  "result": {
+    "ok": true,
+    "status": 201,
+    "response": {
+      "ok": true,
+      "event": {
+        "id": 85,
+        "uid": "cali-d1164cfc-b1fa-4b68-8967-cea67f15545c",
+        "title": "MCP TEST EVENT - safe to delete",
+        "description": "Created by the CALI<->GitHub write-back test.",
+        "start_utc": "2026-10-15T00:41:13+00:00",
+        "end_utc": "2026-10-15T01:11:13+00:00",
+        "tzid": "America/New_York",
+        "source": "phone",
+        "category": "personal",
+        "call_time_text": "",
+        "created_at": "2026-09-15T00:41:17+00:00",
+        "updated_at": "2026-09-15T00:41:17+00:00"
+      }
+    }
+  },
+  "applied_at": "2026-09-15T00:41:17.620844+00:00"
+}
