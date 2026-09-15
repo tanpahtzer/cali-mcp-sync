@@ -1,0 +1,11 @@
+{
+  "request": {
+    "action": "launch_missiles",
+    "params": {}
+  },
+  "result": {
+    "ok": false,
+    "error": "Unrecognized action: 'launch_missiles'"
+  },
+  "applied_at": "2026-09-15T00:41:55.894508+00:00"
+}

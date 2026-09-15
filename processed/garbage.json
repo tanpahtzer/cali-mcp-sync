@@ -1,0 +1,10 @@
+{
+  "request": {
+    "unparsed_file": "garbage.json"
+  },
+  "result": {
+    "ok": false,
+    "error": "Malformed request file: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  "applied_at": "2026-09-15T00:41:55.885259+00:00"
+}
