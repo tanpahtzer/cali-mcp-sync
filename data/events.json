@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-09-15T23:11:09.758063+00:00",
+  "synced_at": "2026-09-16T00:11:09.419958+00:00",
   "timezone": "America/New_York",
   "events": [
     {
@@ -141,6 +141,34 @@
       "call_time_text": "",
       "created_at": "2026-08-06T19:43:44+00:00",
       "updated_at": "2026-08-07T16:08:14+00:00"
+    },
+    {
+      "id": 95,
+      "uid": "cali-e3f3efe4-daaf-461e-941d-8251591d78a1",
+      "title": "zoom meting",
+      "description": "",
+      "start_utc": "2026-09-16T16:00:00+00:00",
+      "end_utc": "2026-09-16T17:00:00+00:00",
+      "tzid": "America/New_York",
+      "source": "manual",
+      "category": "personal",
+      "call_time_text": "",
+      "created_at": "2026-09-15T23:13:53+00:00",
+      "updated_at": "2026-09-15T23:13:53+00:00"
+    },
+    {
+      "id": 96,
+      "uid": "cali-78463c31-8307-49a5-bfcf-386377d6edd2",
+      "title": "zoom meeting",
+      "description": "",
+      "start_utc": "2026-09-16T21:45:00+00:00",
+      "end_utc": "2026-09-16T22:45:00+00:00",
+      "tzid": "America/New_York",
+      "source": "manual",
+      "category": "personal",
+      "call_time_text": "",
+      "created_at": "2026-09-15T23:14:07+00:00",
+      "updated_at": "2026-09-15T23:14:07+00:00"
     },
     {
       "id": 34,
