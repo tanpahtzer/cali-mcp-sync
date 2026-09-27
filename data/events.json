@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-09-24T12:59:15.938759+00:00",
+  "synced_at": "2026-09-27T20:32:49.724207+00:00",
   "timezone": "America/New_York",
   "events": [
     {
@@ -253,6 +253,34 @@
       "call_time_text": "",
       "created_at": "2026-08-06T12:43:55+00:00",
       "updated_at": "2026-08-06T12:43:55+00:00"
+    },
+    {
+      "id": 102,
+      "uid": "cali-dde8caf0-a530-42c9-9393-83b1502783c5",
+      "title": "DC",
+      "description": "",
+      "start_utc": "2026-09-28T14:00:00+00:00",
+      "end_utc": "2026-09-28T15:00:00+00:00",
+      "tzid": "America/New_York",
+      "source": "manual",
+      "category": "personal",
+      "call_time_text": "",
+      "created_at": "2026-09-24T13:34:55+00:00",
+      "updated_at": "2026-09-24T13:34:55+00:00"
+    },
+    {
+      "id": 100,
+      "uid": "cali-59481f13-840c-4f67-a5f7-32031aafd0e9",
+      "title": "DC",
+      "description": "",
+      "start_utc": "2026-09-29T14:00:00+00:00",
+      "end_utc": "2026-09-30T13:00:00+00:00",
+      "tzid": "America/New_York",
+      "source": "manual",
+      "category": "personal",
+      "call_time_text": "",
+      "created_at": "2026-09-24T13:34:35+00:00",
+      "updated_at": "2026-09-24T13:34:35+00:00"
     },
     {
       "id": 39,
