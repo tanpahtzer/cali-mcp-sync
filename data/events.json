@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-10-10T16:50:03.885139+00:00",
+  "synced_at": "2026-10-11T17:37:53.307065+00:00",
   "timezone": "America/New_York",
   "events": [
     {
@@ -57,6 +57,20 @@
       "call_time_text": "6:00 PM",
       "created_at": "2026-09-22T02:07:06+00:00",
       "updated_at": "2026-09-22T02:07:06+00:00"
+    },
+    {
+      "id": 134,
+      "uid": "cali-a63a118b-4e0d-401e-ab53-1508021ea307",
+      "title": "Gym workout",
+      "description": "Workout at the gym",
+      "start_utc": "2026-10-10T18:00:00+00:00",
+      "end_utc": "2026-10-10T19:00:00+00:00",
+      "tzid": "America/New_York",
+      "source": "phone",
+      "category": "personal",
+      "call_time_text": "",
+      "created_at": "2026-10-10T16:50:04+00:00",
+      "updated_at": "2026-10-10T16:50:04+00:00"
     },
     {
       "id": 76,
