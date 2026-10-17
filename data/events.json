@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-10-14T18:59:07.689303+00:00",
+  "synced_at": "2026-10-17T16:06:33.048074+00:00",
   "timezone": "America/New_York",
   "events": [
     {
@@ -323,6 +323,20 @@
       "call_time_text": "",
       "created_at": "2026-08-09T16:12:16+00:00",
       "updated_at": "2026-08-09T16:12:16+00:00"
+    },
+    {
+      "id": 148,
+      "uid": "cali-ef89a99c-ae59-4619-9656-c06a9c942c3a",
+      "title": "IN person Lauren GARDNER",
+      "description": "",
+      "start_utc": "2026-11-12T17:00:00+00:00",
+      "end_utc": "2026-11-12T18:00:00+00:00",
+      "tzid": "America/New_York",
+      "source": "manual",
+      "category": "personal",
+      "call_time_text": "",
+      "created_at": "2026-10-14T19:00:45+00:00",
+      "updated_at": "2026-10-14T19:00:45+00:00"
     },
     {
       "id": 71,
