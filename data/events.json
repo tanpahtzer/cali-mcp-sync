@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-10-23T02:46:24.482789+00:00",
+  "synced_at": "2026-10-23T03:02:50.508702+00:00",
   "timezone": "America/New_York",
   "events": [
     {
@@ -314,15 +314,15 @@
       "id": 128,
       "uid": "I2DUy3AFrt12249@broadcaststaff.com",
       "title": "UNC MBB vs. Monmouth",
-      "description": "XPression Op Call Time: 3:30 PM",
-      "start_utc": "2026-11-24T00:00:00+00:00",
-      "end_utc": "2026-11-24T01:00:00+00:00",
+      "description": "XPression Op Call Time: 4:30 PM",
+      "start_utc": "2026-11-24T01:00:00+00:00",
+      "end_utc": "2026-11-24T02:00:00+00:00",
       "tzid": "America/New_York",
       "source": "ics",
       "category": "work",
       "call_time_text": "",
       "created_at": "2026-10-08T00:23:59+00:00",
-      "updated_at": "2026-10-08T00:23:59+00:00"
+      "updated_at": "2026-10-23T03:02:48+00:00"
     },
     {
       "id": 72,
@@ -342,15 +342,15 @@
       "id": 129,
       "uid": "I2DUy3AFrt12583@broadcaststaff.com",
       "title": "NCSU MBB vs. South Carolina",
-      "description": "Bug Call Time: 4:00 PM",
+      "description": "AP Call Time: 2:00 PM",
       "start_utc": "2026-12-02T00:00:00+00:00",
       "end_utc": "2026-12-02T01:00:00+00:00",
       "tzid": "America/New_York",
       "source": "ics",
       "category": "work",
-      "call_time_text": "4:00 PM",
+      "call_time_text": "",
       "created_at": "2026-10-08T00:23:59+00:00",
-      "updated_at": "2026-10-08T00:23:59+00:00"
+      "updated_at": "2026-10-23T03:02:48+00:00"
     },
     {
       "id": 130,
@@ -482,7 +482,7 @@
       "id": 110,
       "uid": "I2DUy3AFrt12605@broadcaststaff.com",
       "title": "NCSU WBB vs. Miami",
-      "description": "XPression Op Call Time: 12:00 PM",
+      "description": "AP Call Time: 12:00 PM",
       "start_utc": "2026-12-31T19:00:00+00:00",
       "end_utc": "2026-12-31T20:00:00+00:00",
       "tzid": "America/New_York",
@@ -490,7 +490,7 @@
       "category": "work",
       "call_time_text": "",
       "created_at": "2026-09-29T22:10:03+00:00",
-      "updated_at": "2026-10-08T00:24:00+00:00"
+      "updated_at": "2026-10-23T03:02:48+00:00"
     },
     {
       "id": 111,
