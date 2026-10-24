@@ -1,35 +1,7 @@
 {
-  "synced_at": "2026-10-23T16:57:33.954104+00:00",
+  "synced_at": "2026-10-24T14:12:57.603247+00:00",
   "timezone": "America/New_York",
   "events": [
-    {
-      "id": 149,
-      "uid": "cali-23829d52-74cc-43f4-8873-3e8e99484000",
-      "title": "Coaches Zoom with Kieran",
-      "description": "",
-      "start_utc": "2026-10-23T15:00:00+00:00",
-      "end_utc": "2026-10-23T16:00:00+00:00",
-      "tzid": "America/New_York",
-      "source": "phone",
-      "category": "work",
-      "call_time_text": "",
-      "created_at": "2026-10-17T16:06:33+00:00",
-      "updated_at": "2026-10-17T16:06:33+00:00"
-    },
-    {
-      "id": 45,
-      "uid": "I2DUy3AFrt11819@broadcaststaff.com",
-      "title": "Duke MSOC vs. North Carolina",
-      "description": "Bug Call Time: 5:00 PM",
-      "start_utc": "2026-10-24T00:00:00+00:00",
-      "end_utc": "2026-10-24T01:00:00+00:00",
-      "tzid": "America/New_York",
-      "source": "ics",
-      "category": "work",
-      "call_time_text": "5:00 PM",
-      "created_at": "2026-08-07T15:01:58+00:00",
-      "updated_at": "2026-08-07T15:01:58+00:00"
-    },
     {
       "id": 51,
       "uid": "I2DUy3AFrt11820@broadcaststaff.com",
