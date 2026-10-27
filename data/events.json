@@ -1,49 +1,7 @@
 {
-  "synced_at": "2026-10-24T14:12:57.603247+00:00",
+  "synced_at": "2026-10-27T12:29:17.558606+00:00",
   "timezone": "America/New_York",
   "events": [
-    {
-      "id": 51,
-      "uid": "I2DUy3AFrt11820@broadcaststaff.com",
-      "title": "Duke WSOC vs. NC State",
-      "description": "Producer Call Time: 3:30 PM",
-      "start_utc": "2026-10-24T21:00:00+00:00",
-      "end_utc": "2026-10-24T22:00:00+00:00",
-      "tzid": "America/New_York",
-      "source": "ics",
-      "category": "work",
-      "call_time_text": "",
-      "created_at": "2026-08-11T18:42:09+00:00",
-      "updated_at": "2026-08-11T18:42:09+00:00"
-    },
-    {
-      "id": 70,
-      "uid": "I2DUy3AFrt12214@broadcaststaff.com",
-      "title": "VW WSOC REMI: Dartmouth @ Princeton",
-      "description": "Bug Call Time: 9:00 AM",
-      "start_utc": "2026-10-25T16:00:00+00:00",
-      "end_utc": "2026-10-25T17:00:00+00:00",
-      "tzid": "America/New_York",
-      "source": "ics",
-      "category": "work",
-      "call_time_text": "9:00 AM",
-      "created_at": "2026-08-21T12:21:56+00:00",
-      "updated_at": "2026-08-21T12:21:56+00:00"
-    },
-    {
-      "id": 52,
-      "uid": "I2DUy3AFrt12058@broadcaststaff.com",
-      "title": "UNC VOLL vs. Stanford (Level 1)",
-      "description": "XPression Op Call Time: 3:30 PM",
-      "start_utc": "2026-10-26T00:30:00+00:00",
-      "end_utc": "2026-10-26T01:30:00+00:00",
-      "tzid": "America/New_York",
-      "source": "ics",
-      "category": "work",
-      "call_time_text": "",
-      "created_at": "2026-08-11T18:42:09+00:00",
-      "updated_at": "2026-08-11T18:42:09+00:00"
-    },
     {
       "id": 78,
       "uid": "I2DUy3AFrt12059@broadcaststaff.com",
