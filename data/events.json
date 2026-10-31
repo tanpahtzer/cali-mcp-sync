@@ -1,21 +1,7 @@
 {
-  "synced_at": "2026-10-30T19:29:31.304971+00:00",
+  "synced_at": "2026-10-31T16:18:43.550828+00:00",
   "timezone": "America/New_York",
   "events": [
-    {
-      "id": 53,
-      "uid": "I2DUy3AFrt11822@broadcaststaff.com",
-      "title": "Duke FH vs. North Carolina",
-      "description": "Bug Call Time: 3:00 PM",
-      "start_utc": "2026-10-30T22:00:00+00:00",
-      "end_utc": "2026-10-30T23:00:00+00:00",
-      "tzid": "America/New_York",
-      "source": "ics",
-      "category": "work",
-      "call_time_text": "3:00 PM",
-      "created_at": "2026-08-11T18:42:09+00:00",
-      "updated_at": "2026-08-11T18:42:09+00:00"
-    },
     {
       "id": 54,
       "uid": "I2DUy3AFrt11886@broadcaststaff.com",
@@ -197,6 +183,20 @@
       "call_time_text": "2:00 PM",
       "created_at": "2026-10-08T00:23:59+00:00",
       "updated_at": "2026-10-08T00:23:59+00:00"
+    },
+    {
+      "id": 153,
+      "uid": "cali-aeb4f374-15af-4832-a0a1-a7dfef159701",
+      "title": "Telehealth",
+      "description": "",
+      "start_utc": "2026-11-20T13:00:00+00:00",
+      "end_utc": "2026-11-20T14:00:00+00:00",
+      "tzid": "America/New_York",
+      "source": "manual",
+      "category": "personal",
+      "call_time_text": "",
+      "created_at": "2026-10-30T19:30:00+00:00",
+      "updated_at": "2026-10-30T19:30:00+00:00"
     },
     {
       "id": 128,
