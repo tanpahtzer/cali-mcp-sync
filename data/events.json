@@ -1,21 +1,7 @@
 {
-  "synced_at": "2026-11-02T04:11:57.907293+00:00",
+  "synced_at": "2026-11-02T05:11:57.855018+00:00",
   "timezone": "America/New_York",
   "events": [
-    {
-      "id": 54,
-      "uid": "I2DUy3AFrt11886@broadcaststaff.com",
-      "title": "NCSU VOLL vs. Pitt",
-      "description": "XPression Op Call Time: 11:00 AM",
-      "start_utc": "2026-11-01T18:00:00+00:00",
-      "end_utc": "2026-11-01T19:00:00+00:00",
-      "tzid": "America/New_York",
-      "source": "ics",
-      "category": "work",
-      "call_time_text": "",
-      "created_at": "2026-08-11T18:42:09+00:00",
-      "updated_at": "2026-08-11T18:42:09+00:00"
-    },
     {
       "id": 125,
       "uid": "I2DUy3AFrt12765@broadcaststaff.com",
