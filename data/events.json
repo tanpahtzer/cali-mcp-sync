@@ -1,63 +1,7 @@
 {
-  "synced_at": "2026-11-02T12:38:06.882047+00:00",
+  "synced_at": "2026-11-05T23:30:27.492630+00:00",
   "timezone": "America/New_York",
   "events": [
-    {
-      "id": 125,
-      "uid": "I2DUy3AFrt12765@broadcaststaff.com",
-      "title": "UNC FH Set Day",
-      "description": "XPression Op Call Time: 8:59 AM",
-      "start_utc": "2026-11-02T14:00:00+00:00",
-      "end_utc": "2026-11-02T15:00:00+00:00",
-      "tzid": "America/New_York",
-      "source": "ics",
-      "category": "work",
-      "call_time_text": "",
-      "created_at": "2026-10-08T00:23:59+00:00",
-      "updated_at": "2026-10-08T00:23:59+00:00"
-    },
-    {
-      "id": 99,
-      "uid": "I2DUy3AFrt12219@broadcaststaff.com",
-      "title": "Duke MBB vs. Army",
-      "description": "Bug Call Time: 3:30 PM",
-      "start_utc": "2026-11-02T23:30:00+00:00",
-      "end_utc": "2026-11-03T00:30:00+00:00",
-      "tzid": "America/New_York",
-      "source": "ics",
-      "category": "work",
-      "call_time_text": "3:30 PM",
-      "created_at": "2026-09-22T02:07:06+00:00",
-      "updated_at": "2026-10-08T00:23:59+00:00"
-    },
-    {
-      "id": 103,
-      "uid": "I2DUy3AFrt12065@broadcaststaff.com",
-      "title": "UNC FH ACCT Quarterfinals (4 Games)",
-      "description": "XPression Op Call Time: 6:00 AM",
-      "start_utc": "2026-11-03T15:00:00+00:00",
-      "end_utc": "2026-11-03T16:00:00+00:00",
-      "tzid": "America/New_York",
-      "source": "ics",
-      "category": "work",
-      "call_time_text": "",
-      "created_at": "2026-09-29T22:10:03+00:00",
-      "updated_at": "2026-10-30T13:00:36+00:00"
-    },
-    {
-      "id": 104,
-      "uid": "I2DUy3AFrt12066@broadcaststaff.com",
-      "title": "UNC FH ACCT Semifinals (2 Games)",
-      "description": "XPression Op Call Time: 9:00 AM",
-      "start_utc": "2026-11-04T18:00:00+00:00",
-      "end_utc": "2026-11-04T19:00:00+00:00",
-      "tzid": "America/New_York",
-      "source": "ics",
-      "category": "work",
-      "call_time_text": "",
-      "created_at": "2026-09-29T22:10:03+00:00",
-      "updated_at": "2026-10-30T13:00:36+00:00"
-    },
     {
       "id": 105,
       "uid": "I2DUy3AFrt12220@broadcaststaff.com",
@@ -87,6 +31,20 @@
       "updated_at": "2026-10-30T13:00:36+00:00"
     },
     {
+      "id": 155,
+      "uid": "I2DUy3AFrt12964@broadcaststaff.com",
+      "title": "***TIME TBD*** UNC WSOC Potential ACC Tournament Quarterfinal",
+      "description": "XPression Op Call Time: 3 Hours Before",
+      "start_utc": "2026-11-08T05:00:00+00:00",
+      "end_utc": "2026-11-08T06:00:00+00:00",
+      "tzid": "America/New_York",
+      "source": "ics",
+      "category": "work",
+      "call_time_text": "",
+      "created_at": "2026-11-05T23:30:25+00:00",
+      "updated_at": "2026-11-05T23:30:25+00:00"
+    },
+    {
       "id": 49,
       "uid": "cali-25031a47-26c0-44db-8a07-b384c6662ac8",
       "title": "Audible restarts",
@@ -101,6 +59,20 @@
       "updated_at": "2026-08-09T16:12:16+00:00"
     },
     {
+      "id": 156,
+      "uid": "I2DUy3AFrt12942@broadcaststaff.com",
+      "title": "VW MBB REMI: Old Dominion @ Norfolk State",
+      "description": "Graphics Call Time: 5:00 PM",
+      "start_utc": "2026-11-12T00:00:00+00:00",
+      "end_utc": "2026-11-12T01:00:00+00:00",
+      "tzid": "America/New_York",
+      "source": "ics",
+      "category": "work",
+      "call_time_text": "",
+      "created_at": "2026-11-05T23:30:25+00:00",
+      "updated_at": "2026-11-05T23:30:25+00:00"
+    },
+    {
       "id": 148,
       "uid": "cali-ef89a99c-ae59-4619-9656-c06a9c942c3a",
       "title": "IN person Lauren GARDNER",
@@ -113,6 +85,20 @@
       "call_time_text": "",
       "created_at": "2026-10-14T19:00:45+00:00",
       "updated_at": "2026-10-14T19:00:45+00:00"
+    },
+    {
+      "id": 157,
+      "uid": "I2DUy3AFrt12952@broadcaststaff.com",
+      "title": "VW WBB REMI: Duke @ Norfolk State",
+      "description": "Graphics Call Time: 5:00 PM",
+      "start_utc": "2026-11-13T00:00:00+00:00",
+      "end_utc": "2026-11-13T01:00:00+00:00",
+      "tzid": "America/New_York",
+      "source": "ics",
+      "category": "work",
+      "call_time_text": "",
+      "created_at": "2026-11-05T23:30:25+00:00",
+      "updated_at": "2026-11-05T23:30:25+00:00"
     },
     {
       "id": 107,
@@ -155,6 +141,20 @@
       "call_time_text": "12:00 PM",
       "created_at": "2026-10-08T00:23:59+00:00",
       "updated_at": "2026-10-08T00:23:59+00:00"
+    },
+    {
+      "id": 158,
+      "uid": "I2DUy3AFrt12931@broadcaststaff.com",
+      "title": "VW MBB REMI: Western Kentucky @ Tulsa",
+      "description": "Bug Call Time: 3:00 PM",
+      "start_utc": "2026-11-17T00:00:00+00:00",
+      "end_utc": "2026-11-17T01:00:00+00:00",
+      "tzid": "America/New_York",
+      "source": "ics",
+      "category": "work",
+      "call_time_text": "3:00 PM",
+      "created_at": "2026-11-05T23:30:25+00:00",
+      "updated_at": "2026-11-05T23:30:25+00:00"
     },
     {
       "id": 127,
@@ -211,6 +211,20 @@
       "call_time_text": "",
       "created_at": "2026-08-21T12:21:56+00:00",
       "updated_at": "2026-10-08T00:23:59+00:00"
+    },
+    {
+      "id": 159,
+      "uid": "I2DUy3AFrt12941@broadcaststaff.com",
+      "title": "VW FB REMI: FCS Playoffs TBD",
+      "description": "Bug Call Time: 7:00 PM",
+      "start_utc": "2026-11-29T03:00:00+00:00",
+      "end_utc": "2026-11-29T04:00:00+00:00",
+      "tzid": "America/New_York",
+      "source": "ics",
+      "category": "work",
+      "call_time_text": "7:00 PM",
+      "created_at": "2026-11-05T23:30:26+00:00",
+      "updated_at": "2026-11-05T23:30:26+00:00"
     },
     {
       "id": 129,
