@@ -1,21 +1,7 @@
 {
-  "synced_at": "2026-11-08T00:00:54.103999+00:00",
+  "synced_at": "2026-11-08T01:00:54.008075+00:00",
   "timezone": "America/New_York",
   "events": [
-    {
-      "id": 155,
-      "uid": "I2DUy3AFrt12964@broadcaststaff.com",
-      "title": "***TIME TBD*** UNC WSOC Potential ACC Tournament Quarterfinal",
-      "description": "XPression Op Call Time: 3 Hours Before",
-      "start_utc": "2026-11-08T05:00:00+00:00",
-      "end_utc": "2026-11-08T06:00:00+00:00",
-      "tzid": "America/New_York",
-      "source": "ics",
-      "category": "work",
-      "call_time_text": "",
-      "created_at": "2026-11-05T23:30:25+00:00",
-      "updated_at": "2026-11-05T23:30:25+00:00"
-    },
     {
       "id": 49,
       "uid": "cali-25031a47-26c0-44db-8a07-b384c6662ac8",
