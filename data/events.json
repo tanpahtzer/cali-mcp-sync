@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-11-13T12:20:42.751611+00:00",
+  "synced_at": "2026-11-13T13:20:42.474200+00:00",
   "timezone": "America/New_York",
   "events": [
     {
@@ -141,6 +141,20 @@
       "call_time_text": "",
       "created_at": "2026-10-08T00:23:59+00:00",
       "updated_at": "2026-10-23T03:02:48+00:00"
+    },
+    {
+      "id": 162,
+      "uid": "cali-80db6838-a35e-4c05-b7db-5537678eb54c",
+      "title": "Telehealth appointment",
+      "description": "",
+      "start_utc": "2026-12-02T19:00:00+00:00",
+      "end_utc": "2026-12-02T20:00:00+00:00",
+      "tzid": "America/New_York",
+      "source": "phone",
+      "category": "personal",
+      "call_time_text": "",
+      "created_at": "2026-11-13T12:20:43+00:00",
+      "updated_at": "2026-11-13T12:20:43+00:00"
     },
     {
       "id": 130,
