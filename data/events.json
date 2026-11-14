@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-11-14T20:21:08.371047+00:00",
+  "synced_at": "2026-11-14T21:21:08.051650+00:00",
   "timezone": "America/New_York",
   "events": [
     {
@@ -43,6 +43,48 @@
       "call_time_text": "2:00 PM",
       "created_at": "2026-10-08T00:23:59+00:00",
       "updated_at": "2026-10-08T00:23:59+00:00"
+    },
+    {
+      "id": 167,
+      "uid": "cali-495ae10b-2d59-40bf-910f-c3db7371b53d",
+      "title": "Telehealth doctor appointment",
+      "description": "",
+      "start_utc": "2026-11-20T13:00:00+00:00",
+      "end_utc": "2026-11-20T14:00:00+00:00",
+      "tzid": "America/New_York",
+      "source": "phone",
+      "category": "personal",
+      "call_time_text": "",
+      "created_at": "2026-11-14T20:21:10+00:00",
+      "updated_at": "2026-11-14T20:21:10+00:00"
+    },
+    {
+      "id": 165,
+      "uid": "cali-c3c5edb3-bb52-4d0b-879d-1dc6c75d71d4",
+      "title": "Cabin",
+      "description": "",
+      "start_utc": "2026-11-21T05:00:00+00:00",
+      "end_utc": "2026-11-22T04:59:00+00:00",
+      "tzid": "America/New_York",
+      "source": "phone",
+      "category": "personal",
+      "call_time_text": "",
+      "created_at": "2026-11-14T20:21:08+00:00",
+      "updated_at": "2026-11-14T20:21:08+00:00"
+    },
+    {
+      "id": 166,
+      "uid": "cali-7b4a299c-60d7-4ecd-92cf-95165411a903",
+      "title": "Cabin",
+      "description": "",
+      "start_utc": "2026-11-22T05:00:00+00:00",
+      "end_utc": "2026-11-23T04:59:00+00:00",
+      "tzid": "America/New_York",
+      "source": "phone",
+      "category": "personal",
+      "call_time_text": "",
+      "created_at": "2026-11-14T20:21:09+00:00",
+      "updated_at": "2026-11-14T20:21:09+00:00"
     },
     {
       "id": 128,
