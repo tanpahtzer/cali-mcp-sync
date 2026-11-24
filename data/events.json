@@ -1,21 +1,7 @@
 {
-  "synced_at": "2026-11-23T20:32:21.976860+00:00",
+  "synced_at": "2026-11-24T22:02:25.849490+00:00",
   "timezone": "America/New_York",
   "events": [
-    {
-      "id": 128,
-      "uid": "I2DUy3AFrt12249@broadcaststaff.com",
-      "title": "UNC MBB vs. Monmouth",
-      "description": "XPression Op Call Time: 4:30 PM",
-      "start_utc": "2026-11-24T01:00:00+00:00",
-      "end_utc": "2026-11-24T02:00:00+00:00",
-      "tzid": "America/New_York",
-      "source": "ics",
-      "category": "work",
-      "call_time_text": "",
-      "created_at": "2026-10-08T00:23:59+00:00",
-      "updated_at": "2026-10-23T03:02:48+00:00"
-    },
     {
       "id": 72,
       "uid": "I2DUy3AFrt11889@broadcaststaff.com",
@@ -29,6 +15,20 @@
       "call_time_text": "",
       "created_at": "2026-08-21T12:21:56+00:00",
       "updated_at": "2026-10-08T00:23:59+00:00"
+    },
+    {
+      "id": 178,
+      "uid": "cali-d6924159-9e74-4737-b221-fc288a5bf937",
+      "title": "Thanksgiving",
+      "description": "",
+      "start_utc": "2026-11-26T14:00:00+00:00",
+      "end_utc": "2026-11-26T15:00:00+00:00",
+      "tzid": "America/New_York",
+      "source": "phone",
+      "category": "personal",
+      "call_time_text": "",
+      "created_at": "2026-11-23T20:32:22+00:00",
+      "updated_at": "2026-11-23T20:32:22+00:00"
     },
     {
       "id": 159,
