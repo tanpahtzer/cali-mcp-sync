@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-11-25T00:40:25.316190+00:00",
+  "synced_at": "2026-11-25T01:40:25.670096+00:00",
   "timezone": "America/New_York",
   "events": [
     {
@@ -43,34 +43,6 @@
       "call_time_text": "7:00 PM",
       "created_at": "2026-11-05T23:30:26+00:00",
       "updated_at": "2026-11-05T23:30:26+00:00"
-    },
-    {
-      "id": 184,
-      "uid": "cali-fbdee859-bce6-4cc8-99b8-ba72b9e64ddd",
-      "title": "CALI TEST \u2013 delete me",
-      "description": "t8 edit behind held delete",
-      "start_utc": "2026-11-29T17:00:00+00:00",
-      "end_utc": "2026-11-29T17:30:00+00:00",
-      "tzid": "America/New_York",
-      "source": "phone",
-      "category": "personal",
-      "call_time_text": "",
-      "created_at": "2026-11-24T22:17:26+00:00",
-      "updated_at": "2026-11-25T00:39:17+00:00"
-    },
-    {
-      "id": 185,
-      "uid": "cali-eb6e5597-2e38-4c56-808d-e7870f335990",
-      "title": "CALI TEST \u2013 delete me",
-      "description": "t8 gate 3",
-      "start_utc": "2026-11-29T18:00:00+00:00",
-      "end_utc": "2026-11-29T18:30:00+00:00",
-      "tzid": "America/New_York",
-      "source": "phone",
-      "category": "personal",
-      "call_time_text": "",
-      "created_at": "2026-11-24T22:17:27+00:00",
-      "updated_at": "2026-11-24T22:17:27+00:00"
     },
     {
       "id": 129,
@@ -533,20 +505,6 @@
       "call_time_text": "1:00 PM",
       "created_at": "2026-10-13T19:08:25+00:00",
       "updated_at": "2026-10-13T19:08:25+00:00"
-    },
-    {
-      "id": 182,
-      "uid": "cali-fd3a86e3-ab46-482a-aabf-aa9b85a3080d",
-      "title": "CALI TEST \u2013 delete me pc",
-      "description": "t6 real: phone edit, PC edit should win",
-      "start_utc": "2027-03-04T17:00:00+00:00",
-      "end_utc": "2027-03-04T18:00:00+00:00",
-      "tzid": "America/New_York",
-      "source": "phone",
-      "category": "personal",
-      "call_time_text": "",
-      "created_at": "2026-11-24T22:08:26+00:00",
-      "updated_at": "2026-11-24T23:18:33+00:00"
     },
     {
       "id": 171,
