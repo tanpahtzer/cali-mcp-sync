@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-11-24T23:02:25.695268+00:00",
+  "synced_at": "2026-11-25T00:02:25.722099+00:00",
   "timezone": "America/New_York",
   "events": [
     {
@@ -31,34 +31,6 @@
       "updated_at": "2026-11-23T20:32:22+00:00"
     },
     {
-      "id": 180,
-      "uid": "cali-dc3d65be-dff0-47b2-b0fa-99b95cdad806",
-      "title": "CALI TEST \u2013 delete me",
-      "description": "t7b future clock (clamped, should apply)",
-      "start_utc": "2026-11-27T15:00:00+00:00",
-      "end_utc": "2026-11-27T16:00:00+00:00",
-      "tzid": "America/New_York",
-      "source": "phone",
-      "category": "personal",
-      "call_time_text": "",
-      "created_at": "2026-11-24T22:02:26+00:00",
-      "updated_at": "2026-11-24T22:14:27+00:00"
-    },
-    {
-      "id": 181,
-      "uid": "cali-d6aa9b14-73e5-4272-9030-ea8920aa2443",
-      "title": "CALI TEST \u2013 delete me",
-      "description": "t6b phone edit after PC edit (should win)",
-      "start_utc": "2026-11-28T14:30:00+00:00",
-      "end_utc": "2026-11-28T15:30:00+00:00",
-      "tzid": "America/New_York",
-      "source": "phone",
-      "category": "personal",
-      "call_time_text": "",
-      "created_at": "2026-11-24T22:08:26+00:00",
-      "updated_at": "2026-11-24T22:14:26+00:00"
-    },
-    {
       "id": 159,
       "uid": "I2DUy3AFrt12941@broadcaststaff.com",
       "title": "VW FB REMI: FCS Playoffs TBD",
@@ -71,20 +43,6 @@
       "call_time_text": "7:00 PM",
       "created_at": "2026-11-05T23:30:26+00:00",
       "updated_at": "2026-11-05T23:30:26+00:00"
-    },
-    {
-      "id": 183,
-      "uid": "cali-a209526d-b0fe-4591-a1c2-abbd2cfc68f5",
-      "title": "CALI TEST \u2013 delete me",
-      "description": "t8 gate 1",
-      "start_utc": "2026-11-29T16:00:00+00:00",
-      "end_utc": "2026-11-29T16:30:00+00:00",
-      "tzid": "America/New_York",
-      "source": "phone",
-      "category": "personal",
-      "call_time_text": "",
-      "created_at": "2026-11-24T22:17:26+00:00",
-      "updated_at": "2026-11-24T22:17:26+00:00"
     },
     {
       "id": 184,
@@ -579,7 +537,7 @@
     {
       "id": 182,
       "uid": "cali-fd3a86e3-ab46-482a-aabf-aa9b85a3080d",
-      "title": "CALI TEST \u2013 delete me",
+      "title": "CALI TEST \u2013 delete me pc",
       "description": "t6 real: phone edit, PC edit should win",
       "start_utc": "2027-03-04T17:00:00+00:00",
       "end_utc": "2027-03-04T18:00:00+00:00",
@@ -588,7 +546,7 @@
       "category": "personal",
       "call_time_text": "",
       "created_at": "2026-11-24T22:08:26+00:00",
-      "updated_at": "2026-11-24T22:44:26+00:00"
+      "updated_at": "2026-11-24T23:18:33+00:00"
     },
     {
       "id": 171,
