@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-11-25T00:38:47.741602+00:00",
+  "synced_at": "2026-11-25T00:40:25.316190+00:00",
   "timezone": "America/New_York",
   "events": [
     {
@@ -48,7 +48,7 @@
       "id": 184,
       "uid": "cali-fbdee859-bce6-4cc8-99b8-ba72b9e64ddd",
       "title": "CALI TEST \u2013 delete me",
-      "description": "t8 gate 2",
+      "description": "t8 edit behind held delete",
       "start_utc": "2026-11-29T17:00:00+00:00",
       "end_utc": "2026-11-29T17:30:00+00:00",
       "tzid": "America/New_York",
@@ -56,7 +56,7 @@
       "category": "personal",
       "call_time_text": "",
       "created_at": "2026-11-24T22:17:26+00:00",
-      "updated_at": "2026-11-24T22:17:26+00:00"
+      "updated_at": "2026-11-25T00:39:17+00:00"
     },
     {
       "id": 185,
